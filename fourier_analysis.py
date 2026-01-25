@@ -41,6 +41,7 @@ FMAX_FFT_PICK = 5.0
 FMAX_PLOT_FALLBACK = 10.0
 
 #stft settings defined in seconds 
+# Needs optimization for values
 WINDOW_SEC = 15 #seconds per stft window
 OVERLAP_SEC = 14 #seconds overlap
 # WINDOW_SEC = 5 #seconds per stft window
